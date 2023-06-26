@@ -1,2 +1,2 @@
 # DSA
-Projects from my Data Structures Class
+Projects from my Data Structures and Algorithms Class
