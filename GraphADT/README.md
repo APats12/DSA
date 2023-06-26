@@ -11,7 +11,6 @@ The program consists of the following files:
 - `Graph.h`: This is the header file that declares the functions and structures used in `Graph.c`.
 - `FindPath.c`: This is a C program that finds the shortest path between two vertices in a graph.
 
-
 ## Abstract Data Type (ADT) - Graph
 
 The Graph ADT provides the following functions:
