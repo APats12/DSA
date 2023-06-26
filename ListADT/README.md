@@ -3,7 +3,7 @@
 ## Introduction
 This program implements a doubly linked list abstract data type (ADT) named "List". The list supports various operations such as insertion, deletion, traversal, and more. The implementation provides functions to manipulate and access the elements of the list.
 
-## Files
+## Important Files
 The program consists of the following files:
 
 - `List.c`: This file contains the implementation of the doubly linked list ADT.
