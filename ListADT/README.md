@@ -1,4 +1,4 @@
-# Doubly Linked List ADT - README
+# Doubly Linked List ADT
 
 ## Introduction
 This program implements a doubly linked list abstract data type (ADT) named "List". The list supports various operations such as insertion, deletion, traversal, and more. The implementation provides functions to manipulate and access the elements of the list.
